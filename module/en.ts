@@ -1,0 +1,4 @@
+export default {
+  "whatIsLoremIpsumLore": "What is Lorem Ipsum?\nLorem Ipsum is simply dummy text used in the printing and typesetting industry. It has been the industry's standard dummy text since the 1500s, when an unknown printer took a collection of type and scrambled it to create a type specimen book. It has not only survived for five centuries but also adapted to electronic typesetting, remaining essentially unchanged. It gained popularity in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently through desktop publishing software like Aldus PageMaker, which included versions of Lorem Ipsum.",
+  "5897216155F": "58.97.216.155 f"
+}

@@ -1,0 +1,15 @@
+{
+    "type": "module",
+    "defaultLocale": "en",
+    "locales": [
+        {
+            "lang": "en",
+            "file": "en.ts"
+        },
+        {
+            "lang": "km",
+            "file": "km.ts"
+        }
+    ],
+    "localePath": "module"
+}
