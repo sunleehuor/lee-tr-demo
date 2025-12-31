@@ -73,7 +73,9 @@ project/
 ```
 
 ## 5. Usage and work flow
-
+- options: `t, ...`
 ```bash
 lee-tr [options] [keys]
 ```
+Found a bug or have an issue? Please report it here:  
+👉 https://github.com/sunleehuor/lee-tr-cli
