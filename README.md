@@ -6,6 +6,8 @@
 `lee-tr-cli` is designed for developers who manage multiple language files  
 (e.g. `en`, `km`, `jp`, …) and want to translate once and apply everywhere.
 
+> *Requirement `Node Js` (`^20.*`)
+
 ---
 
 ## What does `lee-tr-cli` do?
